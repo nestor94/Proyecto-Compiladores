@@ -1,0 +1,16 @@
+﻿Conversor fuente a fuente -> Este programa se encarga de traducir codigo fuente escrito en Visual Basic (.NET) a C# (.NET)>
+
+Copyright (C) <año: 2015> <Autores: Néstor Escoto, Marlon López, Guillermo Salgado>
+
+Este programa es software libre: usted puede redistribuirlo y / o modificarlo
+bajo los términos de la Licencia Pública General GNU publicada por
+la Free Software Foundation, bien de la versión 3 de la Licencia, o
+(A su elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil,
+pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita de 
+COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Vea el
+GNU General Public License para más detalles.
+
+Debería haber recibido una copia de la Licencia Pública General GNU
+junto con este programa. Si no es así, consulte http://www.gnu.org/licenses/.

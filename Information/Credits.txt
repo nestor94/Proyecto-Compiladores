@@ -1,0 +1,10 @@
+﻿Conversor Fuente a Fuente Raptor.
+
+Elaborado por:
+Guillermo Salgado
+Marlon López
+Néstor Escoto
+
+Recursos Utilizados:
+PyQt4
+Python
